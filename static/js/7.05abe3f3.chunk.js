@@ -1,0 +1,2 @@
+(this["webpackJsonpepic-website"]=this["webpackJsonpepic-website"]||[]).push([[7],{257:function(e,t,c){"use strict";c.r(t);var i=c(6);c(0);t.default=function(){return Object(i.jsx)(i.Fragment,{children:Object(i.jsx)("h1",{children:"\u8fd9\u662f\u4e00\u4e2a\u3010\u56fe\u5e8a\u3011\u9879\u76ee"})})}}}]);
+//# sourceMappingURL=7.05abe3f3.chunk.js.map
